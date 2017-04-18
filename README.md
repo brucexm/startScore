@@ -1,0 +1,1 @@
+# startScore 评分，打星星效果
